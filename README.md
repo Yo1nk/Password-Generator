@@ -14,11 +14,11 @@ When you press the generate password button prompts will appear on the screen an
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![Window-1](Asets/Password.png)
-![Window-2](Assets/Pasword1.png)
-![Window-3](Assets/Password2.png)
-![Window-4](Assets/Password3.png)
-![Window-4](Assets/Password4.png)
+![Window-1](assets/images/Password.PNG)
+![Window-2](assets/images/Password1.PNG)
+![Window-3](assets/images/Password2.PNG)
+![Window-4](assets/images/Password3.PNG)
+![Window-4](assets/images/Password4.PNG)
 
 ## License
 
